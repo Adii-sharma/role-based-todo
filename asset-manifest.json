@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/role-based-todo/static/css/main.55f0772d.css",
+    "main.js": "/role-based-todo/static/js/main.0b750e3c.js",
+    "static/js/488.b6160a71.chunk.js": "/role-based-todo/static/js/488.b6160a71.chunk.js",
+    "index.html": "/role-based-todo/index.html",
+    "main.55f0772d.css.map": "/role-based-todo/static/css/main.55f0772d.css.map",
+    "main.0b750e3c.js.map": "/role-based-todo/static/js/main.0b750e3c.js.map",
+    "488.b6160a71.chunk.js.map": "/role-based-todo/static/js/488.b6160a71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f0772d.css",
+    "static/js/main.0b750e3c.js"
+  ]
+}
